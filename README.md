@@ -1,16 +1,22 @@
-### Hi there 👋
+### Assalamu alaikum, Dears 👋
 
-<!--
-**KhasanovR/KhasanovR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm a software engineer from Uzbekistan, specialized in web development
+ 
+- 🔭 Currently working on start-ups & freelance projects
 
-Here are some ideas to get you started:
+#### I'm good at:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   Python - back-end logic & restapi (Django, DRF, Flask)
+-   Java - back-end logic & restapi (Spring Boot, Spring Data)
+-   NodeJS - back-end logic (Express)
+-   DBMS - relational databases (MySQL, PostgreSQL, SQLite & H2)
+
+#### Here is my portfolio:
+
+- my account: [LinkedIn](https://www.linkedin.com/in/rakhmatjon-khasanov/)
+
+#### Contacts:
+
+- E-mail: [Rakhmatjon](mailto://r.khasanov97@gmail.com)
+- Phone: [+998(904)-230-74-74](tel://+998942307477)
+- Telegram: [@Rakhmatjon_Khasanov](https://t.me/Rakhmatjon_Khasanov)
