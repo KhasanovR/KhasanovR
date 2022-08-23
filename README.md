@@ -13,10 +13,10 @@
 
 #### Here is my portfolio:
 
-- my account: [Rakhmatjon Khasanov](https://www.linkedin.com/in/rakhmatjon-khasanov/)
+- my account: [Rakhmatjon Khasanov](https://www.linkedin.com/in/rakhmatjon-khasanov)
 
 #### Contacts:
 
 - E-mail: [Rakhmatjon Khasanov](mailto://r.khasanov97@gmail.com)
-- Phone: [+998(904)-230-74-74](tel://+998942307477)
+- Phone: [+998(88)-451-27-29](tel://+998884512729)
 - Telegram: [@Rakhmatjon_Khasanov](https://t.me/Rakhmatjon_Khasanov)
