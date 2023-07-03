@@ -2,14 +2,12 @@
 
  I'm a software engineer from Uzbekistan, specialized in web development
  
-- 🔭 Currently working on start-ups & freelance projects
-
 #### I'm good at:
 
--   Python - back-end logic & restapi (Django, DRF, Flask)
--   Java - back-end logic & restapi (Spring Boot, Spring Data)
--   NodeJS - back-end logic (Express)
--   DBMS - relational databases (MySQL, PostgreSQL, SQLite & H2)
+-   Java - Backend Engineering (Spring Boot, Spring Data)
+-   Python - Backend Engineering (Django, DRF, Flask)
+-   NodeJS - Backend Engineering (Express)
+-   DBMS - RDB Engineering (MySQL, PostgreSQL, SQLite & H2)
 
 #### Here is my portfolio:
 
