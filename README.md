@@ -4,9 +4,10 @@
  
 #### I'm good at:
 
--   Java - Backend Engineering (Spring Boot, Spring Data)
--   Python - Backend Engineering (Django, DRF, Flask)
--   NodeJS - Backend Engineering (Express)
+-   Java - Backend Engineering (Spring Boot, Spring Data, etc.)
+-   JS - Frontend Engineering (TS, React, MUI, etc.)
+-   Python - Backend Engineering (Django, DRF, Flask, etc.)
+-   NodeJS - Backend Engineering (Express, etc.)
 -   DBMS - RDB Engineering (MySQL, PostgreSQL, SQLite & H2)
 
 #### Here is my portfolio:
